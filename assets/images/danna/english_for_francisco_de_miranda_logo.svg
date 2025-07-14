@@ -1,0 +1,20 @@
+
+<svg width="300" height="80" viewBox="0 0 600 160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .green { fill: #2ba84a; font-weight: bold; }
+    .purple { fill: #8e63e7; font-weight: bold; }
+    .text { font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 40px; }
+  </style>
+  <!-- Smiling Pencil Icon -->
+  <g transform="translate(0, 10)">
+    <polygon points="30,0 50,10 50,90 30,100 10,90 10,10" fill="#FFD700" stroke="#000" stroke-width="2"/>
+    <circle cx="25" cy="30" r="5" fill="#000"/>
+    <circle cx="35" cy="30" r="5" fill="#000"/>
+    <path d="M20 45 Q25 55 40 45" stroke="#000" stroke-width="2" fill="none"/>
+    <polygon points="30,100 35,110 25,110" fill="#3c3c3c"/>
+  </g>
+
+  <!-- Main Text -->
+  <text x="120" y="50" class="text green">English for</text>
+  <text x="120" y="100" class="text purple">Francisco de Miranda</text>
+</svg>
